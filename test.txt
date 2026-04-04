@@ -1,0 +1,2 @@
+git clone https://github.com/otc06z-l/my-test-project.git
+这是我写的第一个 ETL 脚本
